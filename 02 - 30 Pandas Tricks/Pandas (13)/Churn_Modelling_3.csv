@@ -1,0 +1,11 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+21,15577657,McDonald,732,France,Male,41,8,0,2,1,1,170886.17,0
+22,15597945,Dellucci,636,Spain,Female,32,8,0,2,1,0,138555.46,0
+23,15699309,Gerasimov,510,Spain,Female,38,4,0,1,1,0,118913.53,1
+24,15725737,Mosman,669,France,Male,46,3,0,2,0,1,8487.75,0
+25,15625047,Yen,846,France,Female,38,5,0,1,1,1,187616.16,0
+26,15738191,Maclean,577,France,Male,25,3,0,2,0,1,124508.29,0
+27,15736816,Young,756,Germany,Male,36,2,136815.64,1,1,1,170041.95,0
+28,15700772,Nebechi,571,France,Male,44,9,0,2,0,0,38433.35,0
+29,15728693,McWilliams,574,Germany,Female,43,3,141349.43,1,1,1,100187.43,0
+30,15656300,Lucciano,411,France,Male,29,0,59697.17,2,1,1,53483.21,0
