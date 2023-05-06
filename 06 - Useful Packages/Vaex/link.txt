@@ -1,0 +1,5 @@
+https://nbviewer.org/github/vaexio/vaex-examples/blob/master/medium-nyc-taxi-data-eda/vaex-taxi-article.ipynb
+
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+https://github.com/vaexio/vaex

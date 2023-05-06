@@ -1,0 +1,1 @@
+https://github.com/shankarpandala/lazypredict/blob/dev/lazypredict/Supervised.py
