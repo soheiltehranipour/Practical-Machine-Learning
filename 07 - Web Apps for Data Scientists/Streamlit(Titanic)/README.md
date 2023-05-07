@@ -1,4 +1,4 @@
-# ![Titanic-Passengers](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![Titanic-Passengers](https://github.com/soheiltehranipour/Practical-Machine-Learning/blob/main/07%20-%20Web%20Apps%20for%20Data%20Scientists/Streamlit(Titanic)/snapshot.PNG)
 # Titanic-Passengers
 <table>
 <tr>
